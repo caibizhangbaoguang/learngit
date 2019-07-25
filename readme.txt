@@ -4,4 +4,5 @@ i want to fly
 git changes
 i am vary smart boy
 creating a new branch is quick and simple
+add merge
 
